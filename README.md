@@ -1,1 +1,3 @@
-### Following the iOS App Development Bootcamp by Angela Yu
+# Random Animal app
+
+An app that generates a random animal picture with its name.
